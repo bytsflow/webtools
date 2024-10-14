@@ -1,1 +1,7 @@
-baseurl: "/webtools" # the subpath of your site, e.g. /blog
+#baseurl: "/webtools" # the subpath of your site, e.g. /blog
+url: "https://bytsflow.github.io"
+baseurl: ""  # Leave this blank to ensure it's served from the root
+
+# Other optional settings
+title: "Your Site Title"
+description: "Description of your site"
